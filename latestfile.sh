@@ -1,0 +1,1 @@
+echo /home/pi/labeled/A0539019.jpg
