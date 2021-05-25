@@ -1,1 +1,1 @@
-echo /home/pi/labeled/A0539019.jpg
+echo /home/pi/2021-05-25_15-35-44_capt0000.jpg
