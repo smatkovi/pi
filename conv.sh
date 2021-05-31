@@ -1,1 +1,1 @@
-sudo convert -undercolor black -pointsize 150 -fill white -draw 'text 203,2442 "1L105852"' /home/pi/2021-05-25_15-35-44_capt0000.jpg labeled/1L105852.jpg
+sudo convert -undercolor black -pointsize 200 -fill white -draw 'text 270,3256 "R700012684"' /home/pi/2021-05-31_12-11-01_capt0000.jpg labeled/R700012684.jpg
